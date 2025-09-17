@@ -1,0 +1,1 @@
+In the repository you can find a cube recognition project (open_cv folder), a project for visualizing the movement of a double pendulum (tp_project folder), as well as an implementation of an online bookstore database and many solved problems in algorithms and c++.
