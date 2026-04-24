@@ -1,0 +1,41 @@
+{
+  "source_dataset": "/Users/igoreshka/Desktop/Optimization-of-flows/src/data/real/day_load_profiles/u50/simplified_a_only/dataset_real_spb_day_u50_A_only_simplified.json",
+  "output_dataset": "/Users/igoreshka/Desktop/Optimization-of-flows/src/data/real/day_load_profiles/u50/fast_uniform/dataset_real_spb_day_u50_fast_f10.json",
+  "downscale_factor": 10.0,
+  "seed": 42,
+  "before": {
+    "agents": 432,
+    "tasks": 301,
+    "mno_nodes": 265
+  },
+  "after": {
+    "agents": 50,
+    "tasks": 32,
+    "mno_nodes": 32,
+    "task_sources": 32
+  },
+  "required_agents_by_depot": {
+    "1533456031": 9,
+    "1746883131": 1,
+    "1903257537": 3,
+    "230361": 5
+  },
+  "selected_agents_by_depot": {
+    "1533456031": 9,
+    "1746883131": 18,
+    "1903257537": 6,
+    "230361": 17
+  },
+  "selected_tasks_by_depot": {
+    "1533456031": 15,
+    "1746883131": 1,
+    "1903257537": 6,
+    "230361": 10
+  },
+  "required_hours_by_depot": {
+    "1533456031": 105.742239,
+    "1746883131": 6.696456,
+    "1903257537": 33.583799,
+    "230361": 51.709893
+  }
+}
