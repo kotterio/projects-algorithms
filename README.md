@@ -1,1 +1,1 @@
-This repository contains an OpenCV-based cube recognition project (open_cv), a double-pendulum visualization (tp_project), an online bookstore database, and a collection of solved algorithm problems in C++.
+This repository contains an OpenCV-based cube recognition project (open_cv), a double-pendulum visualization (tp_project), an online bookstore database, and a collection of solved algorithm problems in C++. Also there is new project - optimization of flows.
